@@ -1,4 +1,4 @@
-This repository contains 1 single simple binary executable which takes input from a text file in the same directory named 'test.txt'. 
+This repository contains 1 single simple binary executable. 
 the main.rs processes the test data , convert the endpoints as needed and validate the results using test file itself.
 
 Steps to compile the program: 
